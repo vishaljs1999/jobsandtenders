@@ -1,0 +1,15 @@
+.sidebar {
+    position: fixed;
+    top: 60px;
+    width: 260px;
+    height: calc(100% - 60px);
+    background: #299B63;
+    overflow-x: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    z-index: 2;
+}
+.vvvv{
+    width: 100%;
+    background-color: blue;
+
+}
